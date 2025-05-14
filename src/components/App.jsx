@@ -5,7 +5,7 @@ function App() {
   
   return (
     <>
-      <Todos />
+      {/* <Todos /> */}
       <Trial />
     </>
   )
